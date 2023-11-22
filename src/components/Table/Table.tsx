@@ -13,7 +13,6 @@ export default function Table({ list, selectedRow, selectRow }: Props) {
             <td className="text-xl font-bold p-4">Artist</td>
             <td className="text-xl font-bold">Artwork title</td>
             <td className="text-xl font-bold">Style</td>
-            <td />
           </tr>
         </thead>
         <tbody className="w-full space-y-4">
