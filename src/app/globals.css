@@ -25,3 +25,7 @@ body {
     rgba(68, 91, 96, 1) 0%
   );
 }
+
+.custom-imput{
+  width: 40rem !important;
+}
